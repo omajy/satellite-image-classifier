@@ -1,0 +1,5 @@
+.gitattributes
+.ipynb_checkpoints/
+dataset/
+split_dataset/
+*.pth
