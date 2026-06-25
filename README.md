@@ -1,6 +1,6 @@
 # Satellite Image Classification with CNNs 🛰️
 
-## Technologies
+## Technologies 💻
 **Language:** Python
 
 **Libraries:** PyTorch, NumPy, Matplotlib, scikit-learn, torchvision
