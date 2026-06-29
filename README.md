@@ -7,7 +7,9 @@
 
 ## Overview ⚡
 
-This project explores image classification using Convolutional Neural Networks (CNNs) applied to satellite imagery from the EuroSAT dataset. The objective is to classify RGB satellite images into 10 distinct land-use categories including residential areas, forests, rivers, highways, and agricultural land.
+This project explores image classification using Convolutional Neural Networks applied to satellite imagery from the EuroSAT dataset.
+
+The objective is to classify RGB satellite images into 10 distinct land-use categories including residential areas, forests, rivers, highways, and agricultural land.
 
 Three CNN architectures were developed and evaluated, including multiple dropout regularisation strategies, to investigate the impact of architectural design choices on model performance and generalisation.
 
